@@ -1,4 +1,4 @@
-[Tech Banner](![image](https://github.com/user-attachments/assets/db94c5b9-05d2-4350-81ee-27858867e8c1)
+[image](https://github.com/user-attachments/assets/db94c5b9-05d2-4350-81ee-27858867e8c1)
 )
 
 # 💫 About Me:
