@@ -1,3 +1,6 @@
+![Tech Banner](![image](https://github.com/user-attachments/assets/db94c5b9-05d2-4350-81ee-27858867e8c1)
+)
+
 # 💫 About Me:
 👨‍💻 Software Developer <br>🔸 Passionate about building efficient and secure software.<br>🔸 Strong problem-solving skills.<br>🔸 Exploring innovative solutions in cloud security and blockchain technology.<br>🔸 On a journey to master Rust programming while creating resources to help others learn this powerful language.<br><br>📚 Always learning. 🌟 Always improving. 🛠️ Always building.
 
