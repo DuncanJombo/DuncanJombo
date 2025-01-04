@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software Developer <br>🔸 Passionate about building efficient and secure software using the Rust programming language.<br>🔸 Strong problem-solving skills, particularly in string manipulation and algorithmic challenges.<br>🔸 Exploring innovative solutions in cloud security and blockchain technology.<br>🔸 On a journey to master Rust programming while creating resources to help others learn this powerful language.<br><br>📚 Always learning. 🌟 Always improving. 🛠️ Always building.
+👨‍💻 Software Developer <br>🔸 Passionate about building efficient and secure software.<br>🔸 Strong problem-solving skills.<br>🔸 Exploring innovative solutions in cloud security and blockchain technology.<br>🔸 On a journey to master Rust programming while creating resources to help others learn this powerful language.<br><br>📚 Always learning. 🌟 Always improving. 🛠️ Always building.
 
 
 ## 🌐 Socials:
