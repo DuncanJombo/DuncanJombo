@@ -1,14 +1,6 @@
 # 💫 About Me:
 👨‍💻 Software Developer <br>🔸 Passionate about building efficient and secure software.<br>🔸 Strong problem-solving skills.<br>🔸 Exploring innovative solutions in cloud security and blockchain technology.<br>🔸 On a journey to master Rust programming while creating resources to help others learn this powerful language.<br><br>📚 Always learning. 🌟 Always improving. 🛠️ Always building.
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lenardjombo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lenardjombo) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DuncanJombo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DuncanJombo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DuncanJombo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
